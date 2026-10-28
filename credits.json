@@ -1,0 +1,12 @@
+{
+  "remixOf" : [
+    {
+      "name" : "Tidy Up",
+      "starter" : "tidyup",
+      "url" : "https://github.com/RooCodeInc/lamp-starter-tidyup"
+    }
+  ],
+  "upstream" : [
+
+  ]
+}
