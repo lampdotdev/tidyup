@@ -1,12 +1,24 @@
-# Tidy Up
+<p align="center"><img src=".github/icon.png" width="128" height="128" alt=""></p>
 
-Tidies your Downloads and Desktop by simple rules, and can put everything back.
+<h1 align="center">Tidy Up</h1>
 
-Made with [Lamp](https://lamp.dev), a Mac app that builds apps from a description and changes them as you ask.
+<p align="center">Tidies your Downloads and Desktop by simple rules, and can put everything back.</p>
+
+<p align="center"><a href="#remix-it-with-lamp">Remix it with Lamp</a> · <a href="#build-it-yourself">Build it yourself</a></p>
+
+<p align="center"><img src=".github/preview.png" width="720" alt="Tidy Up"></p>
+
+## Make Tidy Up yours
+
+It's yours to change by asking Lamp. A few places to start:
+
+- Write the rules as sticky notes
+- Show what's taking up space
+- Sort my photos into albums
 
 ## Remix it with Lamp
 
-With Lamp, choose File → Open from GitHub… and paste this repository's address (`https://github.com/lampdotdev/tidyup`): you get this exact wish, yours to change by asking, with the credits below kept. Don't have Lamp? [Get it](https://lamp.dev).
+[Lamp](https://lamp.dev) is a Mac app that builds apps from a description and changes them as you ask. In Lamp, choose File → Open from GitHub… and paste `https://github.com/lampdotdev/tidyup`: you get this exact wish, yours to change, with the credits below kept.
 
 ## Build it yourself
 
@@ -18,5 +30,6 @@ With Apple's Command Line Tools installed (`xcode-select --install`):
 
 The AI inside the app, and anything it does with other apps or devices, goes through Lamp, so those need Lamp open on the same Mac.
 
-Remixed from [Tidy Up](https://github.com/lampdotdev/tidyup) (a Lamp starter).
+## License
 
+MIT. See [LICENSE](LICENSE).
