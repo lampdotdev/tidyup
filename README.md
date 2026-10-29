@@ -4,21 +4,23 @@
 
 <p align="center">Tidies your Downloads and Desktop by simple rules, and can put everything back.</p>
 
-<p align="center"><a href="#remix-it-with-lamp">Remix it with Lamp</a> · <a href="#build-it-yourself">Build it yourself</a></p>
+<p align="center"><a href="https://lamp.dev/?repo=https://github.com/lampdotdev/tidyup&amp;from=readme"><img src=".github/open-in-lamp.svg" width="164" height="48" alt="Open in Lamp"></a></p>
+
+<p align="center"><a href="#build-it-yourself">Build it yourself</a></p>
 
 <p align="center"><img src=".github/preview.png" width="720" alt="Tidy Up"></p>
 
 ## Make Tidy Up yours
 
-It's yours to change by asking Lamp. A few places to start:
+Each opens Lamp with a copy of Tidy Up and that change, ready to send:
 
-- Write the rules as sticky notes
-- Show what's taking up space
-- Sort my photos into albums
+- [Write the rules as sticky notes](https://lamp.dev/?repo=https://github.com/lampdotdev/tidyup&from=readme&ask=Write%20the%20rules%20as%20sticky%20notes)
+- [Show what's taking up space](https://lamp.dev/?repo=https://github.com/lampdotdev/tidyup&from=readme&ask=Show%20what's%20taking%20up%20space)
+- [Sort my photos into albums](https://lamp.dev/?repo=https://github.com/lampdotdev/tidyup&from=readme&ask=Sort%20my%20photos%20into%20albums)
 
-## Remix it with Lamp
+## Open it in Lamp
 
-[Lamp](https://lamp.dev) is a Mac app that builds apps from a description and changes them as you ask. In Lamp, choose File → Open from GitHub… and paste `https://github.com/lampdotdev/tidyup`: you get this exact wish, yours to change, with the credits below kept.
+[Lamp](https://lamp.dev) is a Mac app that builds apps from a description and changes them as you ask. [Open Tidy Up in Lamp](https://lamp.dev/?repo=https://github.com/lampdotdev/tidyup&from=readme) for a copy of your own, to use and to change as you like, with the credits below kept. Or, in Lamp, choose File → Open from GitHub… and paste `https://github.com/lampdotdev/tidyup`.
 
 ## Build it yourself
 
